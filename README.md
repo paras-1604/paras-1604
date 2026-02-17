@@ -1,163 +1,24 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- █▓▒░  CYBERPUNK PROFILE - paras-1604  ░▒▓█ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-  <!-- Animated Cyberpunk Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff:7928ca:ff00ff&height=200&section=header&text=PARAS_1604&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Cyberpunk Header"/>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00f5ff&center=true&vCenter=true&width=600&lines=💻+Computer+Engineering+Student;🔮+Full-Stack+Developer;⚡+DSA+Enthusiast;🌐+Building+the+Future" alt="Typing Effect"/>
-</div>
-
-<!-- Glowing Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
-</p>
-
-## 🧬 ABOUT_ME.exe
+# 💫 About Me:
+$ whoami<br>> [Paras/Obito] | Aspiring Computer Engineer<br><br>$ cat skills.txt<br>> [Kotlin], [Javascript], [Mysql], Problem Solving<br><br>$ grep -i "status" current_state<br>> Open to internships and collaborations<br>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/2Ht0ppAktsQ/giphy.gif" width="120" alt="Cyber Cat"/>
-</div>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/paras-1604) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Obito1604) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paras1604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Paras shilavane) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@paras shilavane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parasshilavane2209@gmail.com) 
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=paras-1604&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=paras-1604&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paras-1604&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ⚡ TECH_STACK_MATRIX
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=paras-1604&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔹 Core Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00f5ff&labelColor=0d1117" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00f5ff&labelColor=0d1117" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ff00ff&labelColor=0d1117" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0d1117" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117" alt="JavaScript"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=paras-1604&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🔹 Web & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=00f5ff&labelColor=0d1117" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=00f5ff&labelColor=0d1117" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00f5ff&labelColor=0d1117" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff&labelColor=0d1117" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00f5ff&labelColor=0d1117" alt="Git"/>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=paras-1604&icon=6&color=0)](https://visitcount.itsvg.in)
 
-### 🔹 Currently Loading...
-<p align="center">
-  <img src="https://img.shields.io/badge/🌱_Learning-React.js-7928ca?style=for-the-badge&labelColor=0d1117" alt="Learning React"/>
-  <img src="https://img.shields.io/badge/🚀_Next-Node.js-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Learning Node"/>
-  <img src="https://img.shields.io/badge/🎯_Goal-System_Design-ff00ff?style=for-the-badge&labelColor=0d1117" alt="Goal"/>
-</p>
-
-<!-- Glowing Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
-</p>
-
-## 📊 SYSTEM_STATS // paras-1604
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=paras-1604&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&icon_color=00f5ff&title_color=ff00ff&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-1604&theme=radical&hide_border=true&layout=compact&title_color=ff00ff&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="180"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=paras-1604&theme=dark&hide_border=true&ring=00f5ff&fire=ff00ff&currStreakLabel=7928ca" alt="Streak Stats" height="180"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
-</p>
-
-## 🏆 ACHIEVEMENT_UNLOCKED
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paras-1604&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=S:SS:SSS" alt="GitHub Trophies"/>
-</div>
-
-<!-- Glowing Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
-</p>
-
-## 🗂️ PROJECT_DATABASE
-
-| Project | Description | Tech Stack | Status | Links |
-|---------|-------------|------------|--------|-------|
-| **🛒 fruitCart** | E-commerce cart with local storage persistence & dynamic UI | `JS` `HTML` `CSS` | ✅ Complete | [📁 Code](https://github.com/paras-1604/fruitCart) |
-| **📡 Beacon** | Android app for [add purpose - e.g., real-time notifications] | `Kotlin` `Android` | 🚧 In Dev | [📁 Code](https://github.com/paras-1604/Beacon) |
-| **🧩 miniProjects** | Collection of DSA solutions & algorithm implementations | `C++` `Java` `Python` | 🔄 Active | [📁 Code](https://github.com/paras-1604/miniProjects) |
-| **🔮 [Your Project]** | Describe your next big idea here | `Tech1` `Tech2` | 💡 Planning | [📁 Code](#) |
-
-> 💡 *Pro Tip: Add a "🧠 What I Learned" comment under each project to showcase growth!*
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
-</p>
-
-## 📡 CONNECT_TO_NETWORK
-
-<div align="center">
-  <p><strong>// INITIATE_COMMUNICATION_PROTOCOL</strong></p>
-  
-  <a href="https://linkedin.com/in/paras-shilavane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00f5ff&labelColor=0d1117" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00f5ff&labelColor=0d1117" alt="Twitter"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=00f5ff&labelColor=0d1117" alt="Portfolio"/>
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_color=7928ca" alt="Dev Quote"/>
-</div>
-
-<!-- Final Cyber Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
-</p>
-
-<div align="center">
-  
-  ### 🌌 SYSTEM_STATUS
-
-  
-<br/>
-
-<!-- Cyberpunk Visitor Counter -->
-<a href="https://github.com/paras-1604">
-  <img src="https://visitcount.itsvg.in/api?id=paras-1604&label=PROFILE_VIEWS&color=00f5ff&icon=5&style=2" alt="Visitor Count"/>
-</a>
-
-<br/><br/>
-
-<sub>// End of transmission. Stay curious. Stay building. 🤖✨</sub>
-
-</div>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- █▓▒░  Made with ⚡ in the Digital Realm  ░▒▓█ -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
