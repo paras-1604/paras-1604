@@ -1,55 +1,235 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Paras/Obito
-====================================================================================================================================
+<div align="center">
 
-Android Developer and Designer
-------------------------------
+<!-- TYPING ANIMATION HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Initializing+obito.exe...;%5B+System+Ready+%5D+%E2%9A%A1)](https://git.io/typing-svg)
 
-$ whoami
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=A020F0&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Kotlin+Developer+%7C+Android+Builder+%7C+ML+Learner;Student+%7C+Builder+%7C+Focused+on+Real-World+Projects)](https://git.io/typing-svg)
 
-\> Paras (aka Obito) | 💻 Computer Engineering Student
+</div>
 
-\> 📍 Based in India | 🎯 Building scalable solutions
+---
 
-$ cat skills.txt
+<!-- CYBERPUNK BANNER GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="cyberpunk banner"/>
+</div>
 
-\> Languages: Kotlin • JavaScript • Python • Java • Bash
+<div align="center">
 
-\> Frontend: React • Angular • Tailwind • Bootstrap • Vite
+```
+██████╗ ██████╗ ██╗████████╗ ██████╗
+██╔═══██╗██╔══██╗██║╚══██╔══╝██╔═══██╗
+██║   ██║██████╔╝██║   ██║   ██║   ██║
+██║   ██║██╔══██╗██║   ██║   ██║   ██║
+╚██████╔╝██████╔╝██║   ██║   ╚██████╔╝
+ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝    ╚═════╝
+```
 
-\> Backend/DB: Node • Firebase • Supabase • MySQL • PostgreSQL • SQLite
+### ⚡ `"Build. Break. Learn. Repeat."` ⚡
 
-\> Tools: Git • GitHub • Figma • Netlify • Vercel • Cloudflare
+</div>
 
-$ grep -i "currently\_learning" roadmap.md
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-\> Advanced System Design • Cloud Architecture • AI/ML fundamentals
+<!-- ABOUT ME TERMINAL -->
+## 👾 `~/about_me`
 
-$ status
+```bash
+┌──(obito㉿system)-[~]
+└─$ cat about_me.txt
 
-\> ✅ Open to internships, collaborations & cool projects
+> whoami
+  ╔══════════════════════════════════════════╗
+  ║  Paras aka Obito                         ║
+  ║  Computer Engineering Student            ║
+  ║  📍 Pune, India                          ║
+  ╚══════════════════════════════════════════╝
 
-* 🌍  I'm based in Pune
-* ✉️  You can contact me at [parasshilavane2209@gmail.com](mailto:parasshilavane2209@gmail.com)
-* 🧠  I'm currently learning Jetpack Compose
+> cat skills.txt
+  Languages  : Java • Kotlin • Python • JavaScript • SQL
+  Android    : Jetpack Compose • XML • Firebase
+  Frontend   : HTML • CSS • React • Bootstrap • Tailwind
+  Backend/DB : Node.js • Supabase • MySQL • SQLite
+  Tools      : Git • Android Studio • VS Code • Figma
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-</p>
-### Badges
+> cat focus.txt
+  [PRIMARY]   → Android Development (Jetpack Compose + Kotlin)
+  [SECONDARY] → Machine Learning Fundamentals
+  [LEARNING]  → Advanced System Design • Cloud Architecture
 
-<b>My GitHub Stats</b>
+> cat mindset.txt
+  Builder      ██████████  100%
+  Discipline   ████████░░  80%
+  Consistency  ██████░░░░  60%  ← Actively improving
 
-<a href="http://www.github.com/paras-1604"><img src="https://github-readme-stats.vercel.app/api?username=paras-1604&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="paras-1604's GitHub stats" /></a>
+> status
+  ✅ Open to internships, collaborations & cool projects
+  📬 parasshilavane2209@gmail.com
 
-<a href="http://www.github.com/paras-1604"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paras-1604&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+┌──(obito㉿system)-[~]
+└─$ █
+```
 
-<a href="https://github.com/paras-1604" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-1604&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<b>Top Repositories</b>
+<!-- TECH STACK BADGES -->
+## 🧠 `~/tech_stack`
 
-<div width="100%" align="center"><a href="https://github.com/paras-1604/Beacon" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=paras-1604&repo=Beacon&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+**Languages**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-A020F0?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00FF41?style=for-the-badge&logo=postgresql&logoColor=black)
 
-### Socials
+**Frontend & Mobile**
 
-<p align="left"> <a href="https://www.github.com/paras-1604" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/paras shilavane" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ED8B00?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-00F5FF?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JS-A020F0?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-00FF41?style=for-the-badge&logo=react&logoColor=black)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-00F5FF?style=for-the-badge&logo=androidstudio&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-A020F0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-00FF41?style=for-the-badge&logo=apachemaven&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-ED8B00?style=for-the-badge&logo=figma&logoColor=black)
+
+**Operating Systems**
+
+![Windows](https://img.shields.io/badge/Windows-00F5FF?style=for-the-badge&logo=windows&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux_WSL-A020F0?style=for-the-badge&logo=linux&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GITHUB STATS -->
+## 🚀 `~/github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=paras-1604&show_icons=true&count_private=true&title_color=00F5FF&text_color=A020F0&icon_color=00FF41&bg_color=0d0d0d&hide_border=true&border_radius=10" width="49%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paras-1604&stroke=00F5FF&background=0d0d0d&ring=A020F0&fire=00F5FF&currStreakNum=00F5FF&currStreakLabel=A020F0&sideNums=00F5FF&sideLabels=A020F0&dates=666666&hide_border=true&border_radius=10" width="49%" alt="Streak Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-1604&langs_count=8&title_color=00F5FF&text_color=A020F0&icon_color=00FF41&bg_color=0d0d0d&hide_border=true&border_radius=10&layout=compact&custom_title=Top%20Languages" width="49%" alt="Top Languages"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- PROJECTS -->
+## ⚡ `~/projects`
+
+```yaml
+projects:
+  - name: "Car Dealership System"
+    tech: [Java, Swing, OOP]
+    desc: "Desktop GUI app for managing car inventory, sales & customers"
+    status: "✅ Complete"
+
+  - name: "Notes App with Cloud Sync"
+    tech: [Kotlin, Jetpack Compose, Firebase/Supabase]
+    desc: "Android notes app with real-time cloud sync & clean UI"
+    status: "🚧 In Progress"
+
+  - name: "ML Models"
+    tech: [Python, scikit-learn, NumPy, Pandas]
+    desc: "Hands-on ML experiments — classification, regression & more"
+    status: "🔬 Experimenting"
+```
+
+<div align="center">
+
+[![Beacon Repo](https://github-readme-stats.vercel.app/api/pin/?username=paras-1604&repo=Beacon&title_color=00F5FF&text_color=A020F0&icon_color=00FF41&bg_color=0d0d0d&hide_border=true)](https://github.com/paras-1604/Beacon)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- SYSTEM STATUS -->
+## 🖥️ `~/system_status`
+
+```yaml
+# obito_system_diagnostics.yml
+---
+operator:      "Paras aka Obito"
+location:      "Pune, India 📍"
+uptime:        "21 years and running"
+current_build: "v3.0 — Student Developer Edition"
+
+cpu_focus:
+  primary:    "Android Development  ██████████  ACTIVE"
+  secondary:  "Machine Learning     ████████░░  LEARNING"
+  background: "System Design        ██████░░░░  QUEUED"
+
+attributes:
+  discipline:   "████████░░  Improving"
+  consistency:  "██████░░░░  Loading..."
+  builder_mode: "██████████  ALWAYS ON"
+
+status:       "🟢 ONLINE"
+availability: "Open to internships & collabs"
+next_goal:    "Elite Developer"
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- SNAKE ANIMATION -->
+## 🐍 `~/contribution_snake`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paras-1604/paras-1604/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paras-1604/paras-1604/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paras-1604/paras-1604/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+
+> **Setup:** Go to your profile repo (`paras-1604/paras-1604`) → Actions → Add the [snake workflow](https://github.com/Platane/snk) to generate the animation automatically.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- SOCIALS -->
+## 🌐 `~/connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-paras--1604-00F5FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paras-1604)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paras_Shilavane-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-shilavane)
+[![Email](https://img.shields.io/badge/Email-parasshilavane2209@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:parasshilavane2209@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- FOOTER TERMINAL -->
+<div align="center">
+
+```bash
+┌──(obito㉿system)-[~]
+└─$ ./run_session.sh
+
+> whoami       →  obito
+> status       →  grinding 🔥
+> next_goal    →  elite developer
+> eta          →  undefined (shipping fast)
+
+[██████████████████████████░░░░] 87% to next level...
+
+exit 0  # See you in the commits 👾
+```
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=paras-1604&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/paras-1604?color=A020F0&style=for-the-badge&logo=github&label=FOLLOWERS)
+
+<br>
+
+*⚡ Powered by caffeine, curiosity & compilers ⚡*
+
+</div>
